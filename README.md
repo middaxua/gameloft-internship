@@ -7,3 +7,5 @@
 	![Bài 1](https://raw.githubusercontent.com/middaxua/gameloft-internship/master/Buoi2/demo/Bai1.PNG)
 	- Ảnh demo bài 2
 	![Bài 2](https://raw.githubusercontent.com/middaxua/gameloft-internship/master/Buoi2/demo/Bai2.PNG)
+2. Bài tập buổi 3 đã xong!
+3. Bài tập buổi 4 đã xong!
