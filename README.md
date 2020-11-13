@@ -1,4 +1,4 @@
-# gameloft-internship
+# GL-internship
 ## Họ và Tên: Nguyễn Văn Khoa
 ***
 ## Task
